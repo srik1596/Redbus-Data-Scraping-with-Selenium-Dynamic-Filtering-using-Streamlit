@@ -1,0 +1,67 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,KAAC TRANSPORT - 157249,,04:00,5h 30m,09:30,4.2,₹390,0
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,,05:00,5h 30m,10:30,4.1,₹361,0
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,,11:30,5h 30m,17:00,4.1,₹361,0
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng,,05:20,5h 10m,10:30,4.5,₹380,0
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng,,03:50,5h 40m,09:30,4.5,₹350,0
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,,10:00,6h,16:00,4.1,₹380,0
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,KAAC TRANSPORT - 157250,,11:30,6h 15m,17:45,4.4,₹390,0
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,,10:00,6h,16:00,4.4,₹361,0
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,,11:45,6h 45m,18:30,4.6,₹361,0
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,,12:15,6h 15m,18:30,4.2,₹361,0
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng,,12:30,6h,18:30,4.7,₹380,0
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng,,11:15,6h 15m,17:30,4.3,₹350,0
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,KAAC TRANSPORT - 157249,,05:45,3h 45m,09:30,4.5,₹250,0
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,,13:00,4h,17:00,4.5,₹266,0
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,,06:30,4h,10:30,4.4,₹285,0
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng,,07:00,3h 30m,10:30,4.2,₹300,0
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,,11:45,4h 15m,16:00,3.3,₹285,0
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,KAAC TRANSPORT - 157250,,11:30,4h 15m,15:45,4,₹299,0
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,,10:00,4h 45m,14:45,4.1,₹285,0
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,,12:15,5h,17:15,4.3,₹285,0
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng,,12:30,4h 20m,16:50,4.1,₹300,0
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,,11:45,4h 45m,16:30,4,₹285,0
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,KAAC TRANSPORT - 157249,,05:00,4h 30m,09:30,4.3,₹299,0
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,,06:00,4h 30m,10:30,4.2,₹285,0
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,,12:15,4h 45m,17:00,3.8,₹285,0
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng,,06:15,4h 15m,10:30,4.4,₹300,0
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,,11:15,4h 45m,16:00,4.1,₹285,0
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,KAAC TRANSPORT - 157250,,11:30,3h 15m,14:45,4,₹250,0
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,,05:00,4h,09:00,4.5,₹266,0
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,,10:00,4h 15m,14:15,4,₹285,0
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,,12:15,4h 15m,16:30,4.4,₹285,0
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng,,12:30,3h 25m,15:55,3.9,₹300,0
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,,11:45,4h 15m,16:00,4.4,₹266,0
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,KAAC TRANSPORT - 157250,,11:30,3h 30m,15:00,4.3,₹266,0
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,,10:00,4h 30m,14:30,3.9,₹285,0
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,,12:15,4h 30m,16:45,4.2,₹285,0
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng,,12:30,3h 40m,16:10,4.9,₹300,0
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,,11:45,4h 30m,16:15,4.2,₹285,0
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,KAAC TRANSPORT - 157249,,05:30,4h,09:30,3.5,₹266,0
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,,12:30,4h 30m,17:00,4.1,₹285,0
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng,,06:50,3h 40m,10:30,4.8,₹300,0
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,,06:15,4h 15m,10:30,3.6,₹285,0
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,,11:30,4h 30m,16:00,4,₹285,0
+Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren,KAAC TRANSPORT - 157442,,04:30,6h,10:30,3.9,₹300,0
+Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren,KAAC TRANSPORT - 175492,,13:00,4h 30m,17:30,3.9,₹246,0
+Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu,KAAC TRANSPORT - 175491,,05:30,4h 50m,10:20,4.4,₹246,0
+Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu,KAAC TRANSPORT - 157443,,11:45,6h 15m,18:00,4,₹300,0
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,KAAC TRANSPORT - 157249,,04:20,5h 10m,09:30,4.8,₹350,0
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,,11:45,5h 15m,17:00,4.5,₹342,0
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,,05:15,5h 15m,10:30,4.1,₹342,0
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng,,05:40,4h 50m,10:30,4.4,₹380,0
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,,10:15,5h 45m,16:00,4,₹342,0
+Diphu to Jagiroad,https://www.redbus.in/bus-tickets/diphu-to-jagiroad,KAAC TRANSPORT - 157249,,04:00,4h,08:00,3.9,₹319,0
+Diphu to Jagiroad,https://www.redbus.in/bus-tickets/diphu-to-jagiroad,Kareng Travels,,11:30,4h,15:30,3.1,₹333,0
+Diphu to Jagiroad,https://www.redbus.in/bus-tickets/diphu-to-jagiroad,Kareng Travels,,05:00,4h 30m,09:30,3.1,₹333,0
+Diphu to Jagiroad,https://www.redbus.in/bus-tickets/diphu-to-jagiroad,Kareng Travels,,10:00,5h,15:00,3.1,₹333,0
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,KAAC TRANSPORT - 157250,,11:30,5h 30m,17:00,4.5,₹350,0
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,,10:00,5h 30m,15:30,4.5,₹342,0
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,,05:00,5h 30m,10:30,4.4,₹342,0
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,,12:15,5h 45m,18:00,4.5,₹342,0
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng,,12:30,5h 30m,18:00,4.4,₹380,0
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,,11:45,6h 15m,18:00,4.7,₹333,0
+Guwahati to Donka,https://www.redbus.in/bus-tickets/guwahati-to-donka,KAAC TRANSPORT - 157324,,12:20,5h 40m,18:00,4.2,₹238,0
+Diphu to Donka,https://www.redbus.in/bus-tickets/diphu-to-donka,KAAC TRANSPORT - 157442,,04:30,4h 30m,09:00,4.2,₹230,0
+Diphu to Donka,https://www.redbus.in/bus-tickets/diphu-to-donka,KAAC TRANSPORT - 175492,,13:00,3h,16:00,4.2,₹180,0
+Hamren to Guwahati,https://www.redbus.in/bus-tickets/hamren-to-guwahati,KAAC TRANSPORT - 157354,,05:00,5h 30m,10:30,4.2,₹254,0

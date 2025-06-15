@@ -1,0 +1,131 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,S R Travels,,01:00,5h,06:00,1.4,₹499,0
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,S R Travels,,01:00,5h 15m,06:15,1.3,₹499,0
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,PVS Tours and Travels,,10:35,2h 55m,13:30,3.3,"₹1,299",0
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,PVS Tours and Travels,,10:05,3h 25m,13:30,1,"₹1,498",0
+Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa,Humsafar Travels,,05:30,2h 30m,08:00,1.9,"₹1,650",0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,,21:00,10h 45m,07:45,4.6,₹900,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,,23:30,9h 30m,09:00,4.6,₹900,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Zingbus Plus,,00:00,9h 55m,09:55,4.6,₹900,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Prasanna - Purple Bus,,22:30,11h,09:30,3.7,₹918,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels Benz,,21:05,11h 25m,08:30,4.5,₹900,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels Club,,21:20,11h 30m,08:50,4.4,₹500,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Laxmi holidays,,21:25,10h 5m,07:30,4.4,₹600,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Vip Yellows,,20:35,11h 55m,08:30,4.3,₹900,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,FlixBus,,21:45,10h 50m,08:35,4.5,₹523,0
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,,22:30,10h 30m,09:00,4.4,₹900,0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Kadamba Transport Corporation Limited (KTCL) - 116186,,18:30,13h 30m,08:00,4.1,"₹1,000",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,,18:30,14h 30m,09:00,4.5,"₹2,423",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,,18:20,12h 40m,07:00,4.5,"₹1,553",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Prasanna - Purple Bus,,17:30,16h 10m,09:40,4,"₹1,710",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Laxmi holidays,,20:00,14h 15m,10:15,4.4,"₹1,286",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,,19:50,12h 40m,08:30,4.4,"₹1,075",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,,17:30,14h 30m,08:00,4.3,"₹2,561",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,,19:30,14h 20m,09:50,4.1,"₹1,939",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Rajdhani Travels Corporation,,18:30,12h 15m,06:45,4.3,"₹1,200",0
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Rajdhani Travels Corporation,,19:30,12h 40m,08:10,4.1,"₹1,200",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,,22:30,10h 25m,08:55,4.7,"₹1,350",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,,23:00,9h,08:00,4.6,"₹1,350",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Zingbus Plus,,18:20,10h 10m,04:30,4.6,"₹1,507",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Ashray Grand,,22:00,9h 30m,07:30,4.2,"₹1,370",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Laxmi holidays,,19:30,11h 50m,07:20,4.4,₹900,0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,,21:32,9h 30m,07:02,4.6,"₹1,200",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Ashray Travels Club,,20:00,10h 30m,06:30,4.3,₹800,0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Prasanna - Purple Bus,,17:30,12h 45m,06:15,4.2,"₹1,350",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Anand Ashray Travels,,20:15,9h 45m,06:00,4.2,"₹1,126",0
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Rajdhani Travels Corporation,,18:00,12h 10m,06:10,4.2,"₹1,200",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PSR Travels Goa (Parrikar),,16:45,4h 40m,21:25,3.6,"₹1,709",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PVS Tours and Travels,,19:00,4h 50m,23:50,3.3,"₹1,699",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PVS Tours and Travels,,18:00,5h 45m,23:45,4.1,"₹1,599",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PSR Travels Goa (SOARES),,18:00,4h 30m,22:30,3.8,"₹1,649",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,S R Travels,,20:30,5h 30m,02:00,2.8,"₹1,000",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,S R Travels,,20:00,3h 59m,23:59,1.6,₹500,0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,S R Travels,,19:45,5h 15m,01:00,2.9,₹500,0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,Easy Bus Tours and Travels,,16:00,6h 30m,22:30,3.3,₹854,0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,PVS Tours and Travels,,19:00,4h 35m,23:35,1.8,"₹2,950",0
+Goa to Belagavi,https://www.redbus.in/bus-tickets/goa-to-belagavi,Dhanunjaya Travels,,19:20,4h,23:20,0,"₹2,000",0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Kadamba Transport Corporation Limited (KTCL) - 180251,,19:45,10h 15m,06:00,3.6,₹800,0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Intercity travels,,21:00,13h,10:00,4.6,"₹1,099",0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sunrise Tours and Travels,,20:15,12h 30m,08:45,4.3,"₹1,099",0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Poulo Travels (PAULO),,20:30,13h 25m,09:55,4.2,"₹1,100",0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,IntrCity SmartBus,,20:15,14h,10:15,4.3,₹817,0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Zingbus Plus,,19:25,13h 35m,09:00,4.6,₹703,0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,IntrCity SmartBus,,20:45,14h 10m,10:55,4.1,₹799,0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,,18:00,13h 30m,07:30,3.7,₹720,0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,FlixBus,,18:10,15h 50m,10:00,4,₹682,0
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,VKV Travels,,22:55,11h 5m,10:00,4.2,"₹1,511",0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Laxmi holidays,,16:40,16h 20m,09:00,4.5,₹700,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,,18:00,15h 55m,09:55,4.5,"₹1,000",0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,,21:00,13h 15m,10:15,4.6,"₹1,232",0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Prasanna - Purple Bus,,17:00,16h,09:00,4.1,₹900,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,,18:30,15h 25m,09:55,4.4,₹900,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin Travel House (37),,13:00,17h,06:00,4.3,₹900,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Rajdhani Travels Corporation,,20:00,14h 30m,10:30,4.2,₹800,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Konkan Travels National,,18:00,16h,10:00,4.1,₹700,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Rajdhani Travels Corporation,,19:00,14h 35m,09:35,4.1,₹800,0
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,,22:50,13h 5m,11:55,4.1,"₹1,000",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,,16:00,13h 30m,05:30,4.6,"₹2,346",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Intercity travels,,18:00,12h 30m,06:30,4.5,"₹1,799",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sunrise Tours and Travels,,18:30,12h 40m,07:10,4.4,"₹1,699",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Poulo Travels (PAULO),,17:30,14h 15m,07:45,4.4,"₹1,400",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sunrise Tours and Travels,,20:00,11h 30m,07:30,4.4,"₹1,699",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Butterfly Holidays,,18:35,12h 10m,06:45,4.3,"₹1,499",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,,17:00,12h 35m,05:35,4.2,"₹2,623",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sea Bird Tourist,,20:30,13h,09:30,3.3,"₹1,620",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,,19:00,13h 20m,08:20,4.3,"₹1,826",0
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,VKV Travels,,13:30,12h 40m,02:10,4.2,"₹1,891",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,Kadamba Transport Corporation Limited (KTCL) - 181828,,17:00,16h 30m,09:30,3.1,"₹1,000",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,Atmaram Gobus,,18:00,17h 25m,11:25,4.3,"₹1,430",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,FlixBus,,18:00,18h 20m,12:20,4.4,"₹1,267",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,PSR Travels Goa (Parrikar),,20:25,15h,11:25,4.3,"₹1,100",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,IntrCity SmartBus,,18:30,16h 55m,11:25,3.8,"₹2,142",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,Zingbus Plus,,17:35,17h 15m,10:50,3.7,"₹1,255",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,PSR Travels Goa (SOARES),,18:30,16h 15m,10:45,4,"₹1,100",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,LIMOLINER,,18:00,16h 30m,10:30,3.5,"₹1,100",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,PVS Tours and Travels,,19:00,14h 30m,09:30,3.2,"₹1,000",0
+Hyderabad to Goa,https://www.redbus.in/bus-tickets/hyderabad-to-goa,Easy Bus Tours and Travels,,19:00,17h 40m,12:40,4.3,₹664,0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,Kadamba Transport Corporation Limited (KTCL) - 181829,,16:00,15h 30m,07:30,2.2,"₹1,400",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,Atmaram Gobus,,18:00,13h 30m,07:30,4.6,"₹2,500",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,IntrCity SmartBus,,15:10,16h 10m,07:20,4,"₹2,441",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,PSR Travels Goa (Parrikar),,16:45,14h 45m,07:30,4.2,"₹1,709",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,Zingbus Plus,,16:45,15h 35m,08:20,3.7,"₹1,927",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,FlixBus,,14:30,16h 50m,07:20,4,"₹1,843",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,IntrCity SmartBus,,16:10,16h 10m,08:20,3.5,"₹2,074",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,LIMOLINER,,17:30,15h 45m,09:15,3.5,"₹1,787",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,PSR Travels Goa (SOARES),,18:00,15h,09:00,3.9,"₹1,649",0
+Goa to Hyderabad,https://www.redbus.in/bus-tickets/goa-to-hyderabad,PVS Tours and Travels,,19:00,16h,11:00,3.3,"₹1,699",0
+Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,,19:00,12h,07:00,3.9,₹790,0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 181828,,17:00,12h,05:00,4,"₹1,000",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,PSR Travels Goa (Parrikar),,20:25,11h 50m,08:15,4.4,"₹1,100",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,PSR Travels Goa (SOARES),,18:30,11h,05:30,4.1,"₹1,100",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,LIMOLINER,,18:00,12h,06:00,3.5,"₹1,100",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,PVS Tours and Travels,,19:00,12h,07:00,2.6,"₹1,000",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,PVS Tours and Travels,,22:30,14h 30m,13:00,2.9,"₹1,298",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,PVS Tours and Travels,,23:45,13h,12:45,2.2,"₹1,297",0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,SRS TRAVELS,,22:01,12h 29m,10:30,1.4,₹799,0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,Easy Bus Tours and Travels,,19:00,13h 30m,08:30,1.5,₹664,0
+Hyderabad to Belagavi,https://www.redbus.in/bus-tickets/hyderabad-to-belagavi,VRL Travels,,22:00,12h 30m,10:30,2.8,₹900,0
+Marcel to Belagavi,https://www.redbus.in/bus-tickets/marcel-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 180953,,08:00,2h 30m,10:30,4.3,₹180,0
+Marcel to Belagavi,https://www.redbus.in/bus-tickets/marcel-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 179941,,09:00,3h,12:00,3.7,₹180,0
+Belagavi to Marcel,https://www.redbus.in/bus-tickets/belagavi-to-marcel,Kadamba Transport Corporation Limited (KTCL) - 180976,,13:30,3h 30m,17:00,3.3,₹180,0
+Belagavi to Marcel,https://www.redbus.in/bus-tickets/belagavi-to-marcel,Kadamba Transport Corporation Limited (KTCL) - 180979,,16:00,3h,19:00,4.6,₹180,0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Sharma Travels,,23:00,10h,09:00,4.3,"₹1,500",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Zingbus Plus,,00:45,10h 5m,10:50,4.6,"₹1,264",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,FlixBus,,01:20,11h,12:20,4.2,"₹1,119",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Atmaram Gobus,,01:00,10h 25m,11:25,2.8,"₹1,599",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Humsafar Travels,,23:30,8h 30m,08:00,3.3,"₹1,550",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Dada Brothers,,02:15,8h 45m,11:00,4,"₹2,999",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Sharma Travels,,22:00,10h,08:00,3.5,"₹1,400",0
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,S R Travels,,18:45,12h 15m,07:00,2.5,"₹1,000",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Kadamba Transport Corporation Limited (KTCL) - 60996,,19:00,13h 30m,08:30,3.5,₹920,0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Atmaram Gobus,,18:00,9h 30m,03:30,4.5,"₹2,500",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,IntrCity SmartBus,,16:10,10h 50m,03:00,3.6,"₹2,074",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Sharma Travels,,15:00,11h,02:00,4.3,"₹1,200",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,FlixBus,,14:30,11h 55m,02:25,4.9,"₹1,434",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,S R Travels,,20:30,11h,07:30,2.2,"₹1,000",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,IntrCity SmartBus,,15:10,10h 50m,02:00,3.7,"₹2,441",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Zingbus Plus,,16:45,9h 45m,02:30,3.1,"₹1,927",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Humsafar Travels,,19:00,10h 15m,05:15,3.2,"₹1,550",0
+Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur,Dada Brothers,,14:00,11h 30m,01:30,4,"₹2,599",0
+Ponda to Belagavi,https://www.redbus.in/bus-tickets/ponda-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 180953,,07:30,3h,10:30,3.2,₹210,0
+Ponda to Belagavi,https://www.redbus.in/bus-tickets/ponda-to-belagavi,Kadamba Transport Corporation Limited (KTCL) - 179941,,08:30,3h 30m,12:00,4.2,₹210,0
